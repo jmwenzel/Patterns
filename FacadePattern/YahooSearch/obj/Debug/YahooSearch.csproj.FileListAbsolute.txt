@@ -1,0 +1,9 @@
+D:\Practice\FacadePattern\YahooSearch\bin\Debug\YahooSearch.dll
+D:\Practice\FacadePattern\YahooSearch\bin\Debug\YahooSearch.pdb
+D:\Practice\FacadePattern\YahooSearch\bin\Debug\HtmlAgilityPack.CssSelectors.dll
+D:\Practice\FacadePattern\YahooSearch\bin\Debug\HtmlAgilityPack.dll
+D:\Practice\FacadePattern\YahooSearch\bin\Debug\HtmlAgilityPack.xml
+D:\Practice\FacadePattern\YahooSearch\bin\Debug\HtmlAgilityPack.CssSelectors.pdb
+D:\Practice\FacadePattern\YahooSearch\obj\Debug\YahooSearch.csprojResolveAssemblyReference.cache
+D:\Practice\FacadePattern\YahooSearch\obj\Debug\YahooSearch.dll
+D:\Practice\FacadePattern\YahooSearch\obj\Debug\YahooSearch.pdb
