@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoom", "ChatRoom\ChatRoom.csproj", "{20AA6E25-B9D1-4978-A9AA-4889D3B3B89F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatMediator", "ChatMediator\ChatMediator.csproj", "{7F070C21-4973-4E39-94C7-FC172AD10ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20AA6E25-B9D1-4978-A9AA-4889D3B3B89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AA6E25-B9D1-4978-A9AA-4889D3B3B89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AA6E25-B9D1-4978-A9AA-4889D3B3B89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AA6E25-B9D1-4978-A9AA-4889D3B3B89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F070C21-4973-4E39-94C7-FC172AD10ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F070C21-4973-4E39-94C7-FC172AD10ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F070C21-4973-4E39-94C7-FC172AD10ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F070C21-4973-4E39-94C7-FC172AD10ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4759C87D-0C04-4D9D-8253-3FA0B80A1514}
+	EndGlobalSection
+EndGlobal
