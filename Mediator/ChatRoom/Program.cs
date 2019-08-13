@@ -11,7 +11,7 @@ namespace ChatRoom
             IMediator mediator = new Mediator();
 
             IUser jackson = new FreeUser(mediator, "Jackson");
-            IUser jose = new FreeUser(mediator, "Jose");
+            IUser jose = new PaidUser(mediator, "Jose");
             IUser cesar = new FreeUser(mediator, "Cesar");
 
             mediator.Register(jackson);
