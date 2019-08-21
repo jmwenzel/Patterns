@@ -16,8 +16,6 @@ You can think of a Mediator object as a traffic control tower. Pilots of the
 planes approaching or departing the terminal area communicate with the tower
 rather than explicitly communicating with one another.
 
- 
-
 ![](https://miro.medium.com/max/700/1*BJu9_D2BWkEnbOWtjrIdeg.png)
 
 Structure
