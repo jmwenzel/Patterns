@@ -16,18 +16,12 @@ You can think of a Mediator object as a traffic control tower. Pilots of the
 planes approaching or departing the terminal area communicate with the tower
 rather than explicitly communicating with one another.
 
- 
-
-![](https://raw.githubusercontent.com/jmwenzel/imagecollection/master/Mediator_Tower.png?token=AEIP6T2ZY4XHTOGMPPEEDL25LWHTG)
-
- 
+![](https://miro.medium.com/max/700/1*BJu9_D2BWkEnbOWtjrIdeg.png)
 
 Structure
 ---------
 
- 
-
-![](https://raw.githubusercontent.com/jmwenzel/imagecollection/master/Mediator_Pattern.png?token=AEIP6T6XA7FMPD3EGGPG2525LWHXY)
+![](https://miro.medium.com/max/661/1*PqPNGGDBgQj3Ge0OY-e7Nw.png)
 
 -   **Mediator** defines an interface for communicating with Collegue objects
 
@@ -455,5 +449,4 @@ class Program
 
 ### Output
 
-![](https://raw.githubusercontent.com/jmwenzel/imagecollection/master/Mediator_Output.png?token=AEIP6TYY3A7LZUQDGKYJSFS5LWIXG)
-
+![](https://miro.medium.com/max/317/1*ZvJ1Y0YZg33k48FAeyKD7g.png)
