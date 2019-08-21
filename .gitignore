@@ -17,3 +17,5 @@
 /FacadePattern/YahooSearch/obj
 /Mediator/ChatMediator/obj
 /Mediator/ChatRoom/obj
+/Strategy Pattern/StrategyNotificationService/obj
+/Strategy Pattern/WebNotification/obj
