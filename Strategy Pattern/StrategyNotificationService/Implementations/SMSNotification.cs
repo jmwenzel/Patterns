@@ -13,7 +13,7 @@ namespace StrategyNotificationService.Implementations
 
         public async Task Notify()
         {
-            await Task.Run(() => Debug.WriteLine("Send SMS notification"));
+            await Task.Run(() => Debug.WriteLine("Send SMS notification..."));
         }
     }
 }
