@@ -3,3 +3,17 @@
 ################################################################################
 
 /.vs
+/DecoratorSample/DecoratorSample/obj
+/DecoratorSample/obj
+/DecoratorSample/RunDecorator/obj
+/Strategy Pattern/NotificationService/.vs/NotificationService
+/Strategy Pattern/NotificationService/StrategyNotificationService/obj
+/Strategy Pattern/NotificationService/WebNotification/obj
+/FacadePattern/BingSearch/obj
+/FacadePattern/FacadePattern/obj
+/FacadePattern/FacadeSearch/obj
+/FacadePattern/GoogleSearch/obj
+/FacadePattern/InternetSearch/obj
+/FacadePattern/YahooSearch/obj
+/Mediator/ChatMediator/obj
+/Mediator/ChatRoom/obj
